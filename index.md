@@ -19,6 +19,16 @@ heroku上にデプロイしたもので実際の動作が確認できます。
 heroku上にデプロイしたものは[こちら](https://mgn-nodejs-chat.herokuapp.com/)。  
 ソースは[こちら](https://github.com/mgningithub/mgn-nodejs-chat)。
 
+## HTML5テンプレートのVue.js使用へカスタマイズ
+
+既存のHTML5テンプレートに対して  
+画像表示、コメントの表示部分をVue.jsを使用するようHtml, Javascriptを改変しました。
+
+[こちら](https://mgningithub.github.io/photos/)で実際の表示が確認できます。  
+
+HTML5テンプレートのライセンス使用はCC BY 3.0に準拠し、
+写真は私が撮ったものとなります。
+
 ## 自習に使用した書籍
 
 - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック ](https://www.amazon.co.jp/dp/4873115655)
