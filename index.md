@@ -29,6 +29,11 @@ heroku上にデプロイしたものは[こちら](https://mgn-nodejs-chat.herok
 HTML5テンプレートのライセンス使用はCC BY 3.0に準拠し、
 写真は私が撮ったものとなります。
 
+### HTML5 + JavaScriptによるマインスイーパ
+
+実際に遊べるものは[こちら](https://mgningithub.github.io/js-mineSweeper/)。  
+ソースは[こちら](https://github.com/mgningithub/js-mineSweeper)。 
+
 ### 自習に使用した書籍
 
 - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック ](https://www.amazon.co.jp/dp/4873115655)
