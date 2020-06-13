@@ -31,7 +31,8 @@ HTML5テンプレートのライセンス使用はCC BY 3.0に準拠し、
 
 ### HTML5 + JavaScriptによるマインスイーパ
 
-HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました。
+HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました。  
+タッチデバイスでの操作にも対応しています。
 
 実際に遊べるものは[こちら](https://mgningithub.github.io/js-mineSweeper/)。  
 ソースは[こちら](https://github.com/mgningithub/js-mineSweeper)。 
