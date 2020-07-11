@@ -22,7 +22,7 @@ Node.js、Socket.IO、Redisを用いてリアルタイムのイラストチャ�
 
 heroku上にデプロイした実際に操作可能なものは[こちら](https://mgn-echat.herokuapp.com/)。  
 ソースは[こちら](https://github.com/mgningithub/eChat)。  
-制作中の備忘録は[こちら](https://github.com/mgningithub/eChat/blob/master/memo.md)
+制作中の備忘録は[こちら](https://github.com/mgningithub/eChat/blob/master/memo.md)  
 Redis導入の備忘録は[こちら](https://github.com/mgningithub/test-redis/blob/master/memo.md)
 
 ### HTML5テンプレートのVue.js使用へカスタマイズ
