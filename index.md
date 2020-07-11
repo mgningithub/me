@@ -7,8 +7,8 @@
 現職ではWindowsでの自社業務向け開発を行っております。   
 - VB.NET+SQLServer(100テーブルほど)による印字データ作成アプリ
 - 運用向けメール送信アプリ
-- 固定長ファイルエクセル変換アプリ
-- ソースコード自動生成アプリ
+- 固定長テキスト->エクセル変換アプリ
+- 仕様書->ソースコード自動生成アプリ
 
 拙いですが、自習の中で出来たものを下記にまとめました。
 
@@ -18,7 +18,7 @@ Node.jsとSocket.IOを用いてリアルタイムのイラストチャットア�
 2画面以上開き、発言すると同時に全画面に反映されます。
 
 heroku上にデプロイしたもので実際の動作が確認できます。  
-heroku上にデプロイしたものは[こちら](https://majestic-biscayne-71255.herokuapp.com/)。  
+heroku上にデプロイしたものは[こちら](https://mgn-echat.herokuapp.com/)。  
 ソースは[こちら](https://github.com/mgningithub/eChat)。  
 制作中の備忘録は[こちら](https://github.com/mgningithub/eChat/blob/master/memo.md)
 
