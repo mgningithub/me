@@ -12,15 +12,18 @@
 
 拙いですが、自習の中で出来たものを下記にまとめました。
 
-### Node.js + Socket.IOによるリアルタイムイラストチャット
+### Node.js + Socket.IO + Redis(NoSQL DB)によるリアルタイムイラストチャット
 
-Node.jsとSocket.IOを用いてリアルタイムのイラストチャットアプリを作成しました。  
-2画面以上開き、発言すると同時に全画面に反映されます。
+Node.js、Socket.IO、Redisを用いてリアルタイムのイラストチャットアプリを作成しました。  
+2画面以上開き、発言すると同時に全画面に反映されます。  
+タッチデバイスでの操作に対応しています。  
+描画ログはRedis上で記憶され、再入室の際に再生されます。  
 
 heroku上にデプロイしたもので実際の動作が確認できます。  
 heroku上にデプロイしたものは[こちら](https://mgn-echat.herokuapp.com/)。  
 ソースは[こちら](https://github.com/mgningithub/eChat)。  
 制作中の備忘録は[こちら](https://github.com/mgningithub/eChat/blob/master/memo.md)
+Redis導入の備忘録は[こちら](https://github.com/mgningithub/test-redis/blob/master/memo.md)
 
 ### HTML5テンプレートのVue.js使用へカスタマイズ
 
@@ -37,7 +40,7 @@ HTML5テンプレートのライセンス使用はCC BY 3.0に準拠し、
 
 HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました。  
 タッチデバイスでの操作にも対応しています。  
-言語学習SNSのHelloTalkで公開し、英語でフィードバックを受けました。
+言語学習SNSのHelloTalkで公開し、英語でフィードバック、バグ報告を受けました。
 
 実際に遊べるものは[こちら](https://mgningithub.github.io/js-mineSweeper/)。  
 ソースは[こちら](https://github.com/mgningithub/js-mineSweeper)。 
@@ -59,6 +62,6 @@ HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました�
 - [よくわかるPHPの教科書](https://www.amazon.co.jp/dp/4839964688/)
 
 ### 英語学習について
-HelloTalk上で日記を英語で書いています。  
+HelloTalkという言語学習SNSで英語で日記を書いています。  
 アカウントは下記になります。  
 @ho_yuichi_89710
