@@ -17,10 +17,10 @@
 Node.js、Socket.IO、Redisを用いてリアルタイムのイラストチャットアプリを作成しました。  
 2画面以上開き、発言すると同時に全画面に反映されます。  
 タッチデバイスでの操作に対応しています。  
-描画ログはRedis上で記憶され、再入室の際に再生されます。  
+描画ログはRedis上で記憶され、再入室の際に再生されます。
+言語学習SNSのHelloTalkで公開し、英語でフィードバックを受けました。  
 
-heroku上にデプロイしたもので実際の動作が確認できます。  
-heroku上にデプロイしたものは[こちら](https://mgn-echat.herokuapp.com/)。  
+heroku上にデプロイした実際に操作可能なものは[こちら](https://mgn-echat.herokuapp.com/)。  
 ソースは[こちら](https://github.com/mgningithub/eChat)。  
 制作中の備忘録は[こちら](https://github.com/mgningithub/eChat/blob/master/memo.md)
 Redis導入の備忘録は[こちら](https://github.com/mgningithub/test-redis/blob/master/memo.md)
