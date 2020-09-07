@@ -57,13 +57,14 @@ HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました�
 実際に動作するものは[こちら](http://mgoon.php.xdomain.jp/twitter-like/login.php)。  
 新規登録するか、メールアドレス"cat@test",パスワード"test"を使用してログインできます。  
 
-### 自習に使用した書籍
+### 自習に使用した書籍など
 
 - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック ](https://www.amazon.co.jp/dp/4873115655/)
 - [Webを支える技術 -HTTP、URI、HTML、そしてREST](https://www.amazon.co.jp/dp/4774142042/)
 - [これからWebをはじめる人のHTML&CSS、JavaScriptのきほんのきほん](https://www.amazon.co.jp/dp/4839959714/)
 - [Webプログラミングが面白いほどわかる本](https://www.amazon.co.jp/dp/4046023023/)
 - [よくわかるPHPの教科書](https://www.amazon.co.jp/dp/4839964688/)
+- [Ruby on Rails チュートリアル](https://railstutorial.jp/) ※学習中。現在1周目herokuまでの本番デプロイなしでChapter8まで終了。
 
 ### 英語学習について
 HelloTalkという言語学習SNSで英語で日記を書いています。  
