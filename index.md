@@ -15,7 +15,9 @@
 
 拙いですが、自習の中で出来たものを下記にまとめました。
 
+---
 ### Node.js + Socket.IO + Redis(NoSQL DB)によるリアルタイムイラストチャット
+<img src="img/DrawingChatApp-min.gif" width="500">  
 
 Node.js、Socket.IO、Redisを用いてリアルタイムのイラストチャットアプリを作成しました。  
 2画面以上開き、発言、描画すると同時に全画面に反映されます。  
@@ -32,6 +34,7 @@ heroku上にデプロイした実際に操作可能なものは[こちら](https
 制作中の備忘録は[こちら](https://github.com/mgningithub/eChat/blob/master/memo.md)  
 Redis導入の備忘録は[こちら](https://github.com/mgningithub/test-redis/blob/master/memo.md)
 
+---
 ### HTML5テンプレートのVue.js使用へカスタマイズ
 
 既存のHTML5テンプレートに対して  
@@ -43,7 +46,9 @@ Redis導入の備忘録は[こちら](https://github.com/mgningithub/test-redis/
 HTML5テンプレートのライセンス使用はCC BY 3.0に準拠し、
 写真は私が撮ったものとなります。
 
+---
 ### HTML5 + JavaScriptによるマインスイーパ
+<img src="img/MineSweeper-min.gif" width="150">  
 
 HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました。  
 タッチデバイスでの操作にも対応しています。  
@@ -52,7 +57,9 @@ HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました�
 実際に遊べるものは[こちら](https://mgningithub.github.io/js-mineSweeper/)。  
 ソースは[こちら](https://github.com/mgningithub/js-mineSweeper)。 
 
+---
 ### PHP + MySQLによる一言掲示板
+<img src="img/PhpBoard.PNG" width="300">  
 
 [よくわかるPHPの教科書](https://www.amazon.co.jp/dp/4839964688/)を参考に  
 ログイン、投稿、返信機能のある掲示板を作成しました。  
@@ -60,6 +67,7 @@ HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました�
 実際に動作するものは[こちら](http://mgoon.php.xdomain.jp/twitter-like/login.php)。  
 新規登録するか、メールアドレス"cat@test",パスワード"test"を使用してログインできます。  
 
+---
 ### 自習に使用した書籍など
 
 - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック ](https://www.amazon.co.jp/dp/4873115655/)
@@ -69,6 +77,7 @@ HTML5のcanvas要素とJavaScriptでマインスイーパを実装しました�
 - [よくわかるPHPの教科書](https://www.amazon.co.jp/dp/4839964688/)
 - [Ruby on Rails チュートリアル](https://railstutorial.jp/) ※学習中。現在1周目herokuまでの本番デプロイなしでChapter8まで終了。
 
+---
 ### 英語学習について
 HelloTalkという言語学習SNSで英語で日記を書いています。  
 アカウントは下記になります。  
